@@ -1,0 +1,1 @@
+teaches_house [ This is my teachers house., 0.33 ]
